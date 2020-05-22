@@ -19,7 +19,7 @@
     line-height: 24px;
 }
 
-.product-list article a{
+.product-list article Link{
     height: 42px;
     border-radius: 5px;
     border: 2px solid #da552f;
@@ -34,7 +34,7 @@
     align-items: center;
 }
 
-.product-list article a:hover{
+.product-list article Link:hover{
     background: #da552f;
     color: #fff;
 }
